@@ -264,7 +264,7 @@ public class MapsActivity extends AppCompatActivity implements OnMapReadyCallbac
                                 ett2.setText("About:" + feedback);
 
                             } else {
-                                //Toast.makeText(getApplicationContext(), "No way", Toast.LENGTH_LONG).show();
+                                
                             }
 
 
